@@ -18,6 +18,9 @@ function App() {
           Learn React
         </a>
       </header>
+
+      <p>This is content of kalliopaja-feature-branch</p>
+
     </div>
   );
 }
